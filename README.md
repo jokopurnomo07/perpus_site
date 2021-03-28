@@ -23,7 +23,7 @@ Password : admin
 
 Login Admin Page :
 
-<img src="admin/img/login_page.png">
+<img src="admin/img/login-page.png">
 
 Dashboard Page :
 
