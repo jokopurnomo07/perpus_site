@@ -1,7 +1,7 @@
 Website Perpustakaan Sekolah Untuk Uji Kompetensi
 
 Dibuat dengan :
-<ul type="1">
+<ul>
     <li>PHP Native V7</li>
     <li>Bootstrap V4</li>
     <li>Template AdminLTE V3</li>
@@ -9,7 +9,7 @@ Dibuat dengan :
 </ul>
 
 Cara menyambungkan database :
-<ul type="1">
+<ul>
     <li>Buat database dengan nama perpus</li>
     <li>Import Database perpus_site.sql ke database yang sudah di buat di PHPMyAdmin</li>
     <li>Buka Web menggunakan Xampp Versi baru</li>
@@ -18,8 +18,8 @@ Cara menyambungkan database :
 
 
 Login Admin <br>
-Username : arifdwi
-Password : admin
+Username : `arifdwi` <br>
+Password : `admin`
 
 Login Admin Page :
 
